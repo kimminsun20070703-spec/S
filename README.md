@@ -11,7 +11,9 @@
 ├── background.jpg              # 배경 이미지
 ├── Deer.glb                    # 3D 모델 (사슴)
 ├── gift-157.glb                # 3D 모델 (선물)
-├── gino_48-sweet-3255.glb      # 3D 모델
+├── gino_48-sweet-3255.glb      # 3D 모델 (달콤한 집/오브젝트)
+├── pixellabs-snowman-3549.glb  # 3D 모델 (눈사람)
+├── wings_of_freedom-star-3056.glb # 3D 모델 (별/날개)
 ├── server.ps1                  # 로컬 테스트용 PowerShell 웹 서버
 ├── 서버실행.bat                 # 로컬 서버 원클릭 실행 스크립트
 ├── .gitignore                  # Git 추적 제외 설정
